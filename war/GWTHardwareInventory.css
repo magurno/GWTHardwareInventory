@@ -1,0 +1,29 @@
+/* Formatting specific to the GWTHardwareInventory application */
+
+body {
+  padding: 10px;
+}
+
+/* category list header row */
+.watchListHeader {
+  background-color: #2062B8;
+  color: white;
+  font-style: italic;
+}
+
+/* category list flex table */
+.watchList {
+  border: 1px solid silver;
+  padding: 2px;
+  margin-bottom:6px;
+}
+
+/* category list Remove column */
+.watchListRemoveColumn {
+  text-align: center;
+}
+
+/* Add Category panel */
+.addPanel {
+  margin: 10px 0px 15px 0px;
+}

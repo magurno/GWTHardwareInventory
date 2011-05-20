@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.gwthardwareinventory.client.GreetingService
+path: 37BC2F53416F49C0776D8F9F460060B1.gwt.rpc
